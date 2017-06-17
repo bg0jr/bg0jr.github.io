@@ -23,7 +23,7 @@
     <Compile Include="_ignore.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="_posts\2017-06-06-Welcome.md" />
+    <None Include="_posts\2017-06-17-A-journey.md" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="assets\" />

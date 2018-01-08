@@ -31,11 +31,9 @@
     <Content Include="atom.xml" />
     <Content Include="images\404.jpg" />
     <Content Include="index.html" />
-    <Content Include="public\apple-touch-icon-precomposed.png" />
     <Content Include="public\css\lanyon.css" />
     <Content Include="public\css\poole.css" />
     <Content Include="public\css\syntax.css" />
-    <Content Include="public\favicon.ico" />
     <Content Include="_includes\analytics.html" />
     <Content Include="_includes\disqus.html" />
     <Content Include="_includes\head.html" />
